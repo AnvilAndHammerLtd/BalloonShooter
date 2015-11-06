@@ -1,0 +1,228 @@
+<Project>
+  <Name>Balloon Shooter</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Untitled</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Enum">
+        <Name>BaseGame</Name>
+        <Access>Public</Access>
+        <Location left="176" top="222" />
+        <Size width="162" height="216" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>BaseScreenMenu</Name>
+        <Access>Public</Access>
+        <Location left="438" top="222" />
+        <Size width="162" height="216" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>Balloon</Name>
+        <Access>Public</Access>
+        <Location left="194" top="547" />
+        <Size width="162" height="216" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>HelperAnimateSprite</Name>
+        <Access>Public</Access>
+        <Location left="263" top="737" />
+        <Size width="162" height="216" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>HelperBackgroundTexture</Name>
+        <Access>Public</Access>
+        <Location left="480" top="53" />
+        <Size width="201" height="61" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>HelperMusic</Name>
+        <Access>Public</Access>
+        <Location left="725" top="53" />
+        <Size width="162" height="216" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>HelperScreen</Name>
+        <Access>Public</Access>
+        <Location left="10" top="53" />
+        <Size width="162" height="216" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>IScreen</Name>
+        <Access>Public</Access>
+        <Location left="670" top="222" />
+        <Size width="162" height="216" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>ScreenPause</Name>
+        <Access>Public</Access>
+        <Location left="388" top="401" />
+        <Size width="162" height="61" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>ScreenPlay</Name>
+        <Access>Public</Access>
+        <Location left="194" top="401" />
+        <Size width="162" height="61" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>ScreenTitle</Name>
+        <Access>Public</Access>
+        <Location left="575" top="401" />
+        <Size width="162" height="61" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>Dart</Name>
+        <Access>Public</Access>
+        <Location left="388" top="547" />
+        <Size width="162" height="61" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+      <Entity type="Enum">
+        <Name>GameMain</Name>
+        <Access>Public</Access>
+        <Location left="254" top="53" />
+        <Size width="162" height="61" />
+        <Collapsed>True</Collapsed>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Dependency" first="1" second="0">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+      </Relationship>
+      <Relationship type="Dependency" first="8" second="1">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>473</X>
+          <Y>372</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="1" second="7">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+      </Relationship>
+      <Relationship type="Dependency" first="9" second="0">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Dependency" first="10" second="1">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>653</X>
+          <Y>376</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>565</X>
+          <Y>297</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="9" second="7">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>299</X>
+          <Y>336</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Association" first="0" second="12">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>279</X>
+          <Y>197</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="12" second="6">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="0" second="4">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>295</X>
+          <Y>165</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="0" second="5">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>311</X>
+          <Y>196</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="9" second="2">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+        <StartMultiplicity>*</StartMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="9" second="11">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>319</X>
+          <Y>471</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+        <StartMultiplicity>*</StartMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="2" second="3">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>280</X>
+          <Y>617</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>336</X>
+          <Y>712</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="11" second="3">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>470</X>
+          <Y>617</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>394</X>
+          <Y>712</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>

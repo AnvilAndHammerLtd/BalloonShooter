@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalMathGame", "GameBase\GameBase\EducationalMathGame.csproj", "{3698D15E-F047-418C-8616-4683F19A9E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalMathGameContent", "GameBase\GameBaseContent\EducationalMathGameContent.contentproj", "{8FF9EAFC-18ED-4FA2-9540-BD1D5520300A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3698D15E-F047-418C-8616-4683F19A9E15}.Debug|x86.ActiveCfg = Debug|x86
+		{3698D15E-F047-418C-8616-4683F19A9E15}.Debug|x86.Build.0 = Debug|x86
+		{3698D15E-F047-418C-8616-4683F19A9E15}.Release|x86.ActiveCfg = Release|x86
+		{3698D15E-F047-418C-8616-4683F19A9E15}.Release|x86.Build.0 = Release|x86
+		{8FF9EAFC-18ED-4FA2-9540-BD1D5520300A}.Debug|x86.ActiveCfg = Debug|x86
+		{8FF9EAFC-18ED-4FA2-9540-BD1D5520300A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

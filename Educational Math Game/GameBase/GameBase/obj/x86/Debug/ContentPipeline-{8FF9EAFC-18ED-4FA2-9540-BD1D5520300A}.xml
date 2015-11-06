@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>audio\balloon_pop.wav</Source>
+      <Name>audio\balloon_pop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\audio\balloon_pop.xnb</Output>
+      <Time>2014-12-14T13:10:30.8129019+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\normal.spritefont</Source>
+      <Name>fonts\normal</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\fonts\normal.xnb</Output>
+      <Time>2014-11-22T10:35:09.4704969+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\balloon.png</Source>
+      <Name>sprites\balloon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\sprites\balloon.xnb</Output>
+      <Time>2014-12-19T18:54:59.2491666+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\dart.png</Source>
+      <Name>sprites\dart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\sprites\dart.xnb</Output>
+      <Time>2014-12-14T11:28:03.8433153+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\titlescreen_background.jpg</Source>
+      <Name>sprites\titlescreen_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\sprites\titlescreen_background.xnb</Output>
+      <Time>2014-12-19T20:28:19.5164835+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\playscreen_background.jpg</Source>
+      <Name>sprites\playscreen_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\sprites\playscreen_background.xnb</Output>
+      <Time>2014-12-14T15:50:58.7015856+00:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\playscreen_background_music.mp3</Source>
+      <Name>audio\playscreen_background_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\audio\playscreen_background_music.xnb</Output>
+      <Extra>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\audio\playscreen_background_music.wma</Extra>
+      <Time>2014-12-15T10:54:23.3165761+00:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\pausescreen_background_music.mp3</Source>
+      <Name>audio\pausescreen_background_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\audio\pausescreen_background_music.xnb</Output>
+      <Extra>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\audio\pausescreen_background_music.wma</Extra>
+      <Time>2014-12-15T15:47:22.3736407+00:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\balloon_rope_swing.wav</Source>
+      <Name>audio\balloon_rope_swing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\audio\balloon_rope_swing.xnb</Output>
+      <Time>2014-12-18T21:12:01.2364511+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8FF9EAFC-18ED-4FA2-9540-BD1D5520300A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBaseContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\Educational Math Game\GameBase\GameBase\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-11T18:48:31.0337406+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

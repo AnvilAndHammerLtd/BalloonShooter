@@ -1,0 +1,7 @@
+c:\users\kyriakos\documents\visual studio 2013\Projects\GameBase\GameBase\GameBase\obj\x86\Debug\GameBase.csprojResolveAssemblyReference.cache
+c:\users\kyriakos\documents\visual studio 2013\Projects\GameBase\GameBase\GameBase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kyriakos\documents\visual studio 2013\Projects\GameBase\GameBase\GameBase\bin\x86\Debug\GameBase.exe
+c:\users\kyriakos\documents\visual studio 2013\Projects\GameBase\GameBase\GameBase\bin\x86\Debug\GameBase.pdb
+c:\users\kyriakos\documents\visual studio 2013\Projects\GameBase\GameBase\GameBase\obj\x86\Debug\GameBase.exe
+c:\users\kyriakos\documents\visual studio 2013\Projects\GameBase\GameBase\GameBase\obj\x86\Debug\GameBase.pdb
+C:\Users\Kyriakos\Documents\Visual Studio 2013\Projects\GameBase\GameBase\GameBase\bin\x86\Debug\Content\fonts\normal.xnb
